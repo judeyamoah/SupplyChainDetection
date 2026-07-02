@@ -1,0 +1,13 @@
+{
+    "dataset_rows": 3313,
+    "feature_count": 80,
+    "vulnerable_count": 342,
+    "benign_count": 2971,
+    "test_size": 0.2,
+    "cross_validation_folds": 10,
+    "models_trained": [
+        "Logistic Regression",
+        "Support Vector Machine",
+        "Random Forest"
+    ]
+}

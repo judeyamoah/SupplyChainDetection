@@ -34,7 +34,9 @@ from tqdm import tqdm
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-INPUT_FILE = BASE_DIR / "data" / "raw" / "npm_metadata_raw.json"
+# INPUT_FILE = BASE_DIR / "data" / "raw" / "npm_metadata_raw.json"
+NORMAL_METADATA_FILE = BASE_DIR / "data" / "raw" / "npm_metadata_raw.json"
+VULNERABLE_METADATA_FILE = BASE_DIR / "data" / "raw" / "npm_vulnerable_metadata_raw.json"
 OUTPUT_FILE = BASE_DIR / "data" / "interim" / "npm_downloads_enriched.json"
 PROGRESS_FILE = BASE_DIR / "logs" / "npm_downloads_progress.json"
 
@@ -143,8 +145,17 @@ def fetch_download_count(package_name, period):
 def main():
     ensure_directories()
 
-    metadata_records = load_json(INPUT_FILE)
-    package_names = extract_package_names(metadata_records)
+    # metadata_records = load_json(INPUT_FILE)
+    # package_names = extract_package_names(metadata_records)
+    normal_metadata = load_json(NORMAL_METADATA_FILE)
+
+    if VULNERABLE_METADATA_FILE.exists() and VULNERABLE_METADATA_FILE.stat().st_size > 0:
+        vulnerable_metadata = load_json(VULNERABLE_METADATA_FILE)
+    else:
+        vulnerable_metadata = []
+
+    metadata_records = normal_metadata + vulnerable_metadata
+    package_names = list(set(extract_package_names(metadata_records)))
 
     progress = load_progress()
     processed = set(progress.get("processed", []))
