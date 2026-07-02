@@ -33,6 +33,7 @@ import requests
 BASE_URL = "https://replicate.npmjs.com/_all_docs"
 LIMIT = 500
 TARGET_COUNT = 3000
+#TARGET_COUNT = 1000000
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
