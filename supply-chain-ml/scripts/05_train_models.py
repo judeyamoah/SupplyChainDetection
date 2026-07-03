@@ -180,30 +180,6 @@ def evaluate_model(name, model, X_train, X_test, y_train, y_test):
     train_time = time.time() - start_train
     
     
-    cv = StratifiedKFold(
-        n_splits=10,
-        shuffle=True,
-        random_state=RANDOM_STATE
-    )
-
-    cv_scores = cross_val_score(
-        model,
-        X,
-        y,
-        cv=cv,
-        scoring="f1",
-        n_jobs=-1
-    )
-
-    print(
-        f"10-Fold CV F1: "
-        f"{cv_scores.mean():.4f} ± "
-        f"{cv_scores.std():.4f}"
-    )
-    
-    
-    
-    
 
     start_predict = time.time()
     y_pred = model.predict(X_test)
@@ -395,6 +371,26 @@ def main():
         print(f"F1-Score:  {metrics['f1_score']:.4f}")
         print(f"ROC-AUC:   {metrics['roc_auc']:.4f}")
         print(f"MCC:       {metrics['mcc']:.4f}")
+        
+        cv = StratifiedKFold(
+            n_splits=10,
+            shuffle=True,
+            random_state=RANDOM_STATE
+        )
+
+        cv_scores = cross_val_score(
+            model,
+            X,
+            y,
+            cv=cv,
+            scoring="f1",
+            n_jobs=-1
+        )
+
+        metrics["cv_f1_mean"] = cv_scores.mean()
+        metrics["cv_f1_std"] = cv_scores.std()
+
+        print(f"10-Fold CV F1: {cv_scores.mean():.4f} ± {cv_scores.std():.4f}")
 
     plot_roc_curves(roc_data)
 

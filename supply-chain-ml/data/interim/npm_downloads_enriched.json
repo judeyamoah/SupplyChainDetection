@@ -15313,5 +15313,1255 @@
         "package_name": "river-mock",
         "weekly_downloads": 8,
         "monthly_downloads": 19
+    },
+    {
+        "package_name": "npm-script-demo",
+        "weekly_downloads": 5,
+        "monthly_downloads": 18
+    },
+    {
+        "package_name": "igniteui",
+        "weekly_downloads": 7,
+        "monthly_downloads": 51
+    },
+    {
+        "package_name": "systeminformation",
+        "weekly_downloads": 9038359,
+        "monthly_downloads": 31437110
+    },
+    {
+        "package_name": "uptime-kuma",
+        "weekly_downloads": 72,
+        "monthly_downloads": 261
+    },
+    {
+        "package_name": "bufger-xor",
+        "weekly_downloads": 3,
+        "monthly_downloads": 23
+    },
+    {
+        "package_name": "js-yaml",
+        "weekly_downloads": 248288430,
+        "monthly_downloads": 987294913
+    },
+    {
+        "package_name": "angular",
+        "weekly_downloads": 559273,
+        "monthly_downloads": 2188688
+    },
+    {
+        "package_name": "psitransfer",
+        "weekly_downloads": 57,
+        "monthly_downloads": 414
+    },
+    {
+        "package_name": "@backstage/plugin-scaffolder-backend",
+        "weekly_downloads": 125753,
+        "monthly_downloads": 481278
+    },
+    {
+        "package_name": "jquery.terminal",
+        "weekly_downloads": 6012,
+        "monthly_downloads": 27398
+    },
+    {
+        "package_name": "hdeky",
+        "weekly_downloads": 2,
+        "monthly_downloads": 18
+    },
+    {
+        "package_name": "mc-kill-port",
+        "weekly_downloads": 4,
+        "monthly_downloads": 17
+    },
+    {
+        "package_name": "ajv",
+        "weekly_downloads": 321843432,
+        "monthly_downloads": 1274044244
+    },
+    {
+        "package_name": "jsrsasign",
+        "weekly_downloads": 1012294,
+        "monthly_downloads": 4229022
+    },
+    {
+        "package_name": "inngest",
+        "weekly_downloads": 1133903,
+        "monthly_downloads": 4970347
+    },
+    {
+        "package_name": "http-file-server",
+        "weekly_downloads": 5,
+        "monthly_downloads": 125
+    },
+    {
+        "package_name": "gitblame",
+        "weekly_downloads": 19,
+        "monthly_downloads": 97
+    },
+    {
+        "package_name": "@tutao/tutanota-utils",
+        "weekly_downloads": 488,
+        "monthly_downloads": 2266
+    },
+    {
+        "package_name": "fury-adapter-swagger",
+        "weekly_downloads": 2936,
+        "monthly_downloads": 13623
+    },
+    {
+        "package_name": "renovate",
+        "weekly_downloads": 716708,
+        "monthly_downloads": 2414711
+    },
+    {
+        "package_name": "parse-dashboard",
+        "weekly_downloads": 4895,
+        "monthly_downloads": 20146
+    },
+    {
+        "package_name": "spritesheet-js",
+        "weekly_downloads": 937,
+        "monthly_downloads": 4436
+    },
+    {
+        "package_name": "web3-core-method",
+        "weekly_downloads": 480708,
+        "monthly_downloads": 1996855
+    },
+    {
+        "package_name": "xml-crypto",
+        "weekly_downloads": 3256324,
+        "monthly_downloads": 12593956
+    },
+    {
+        "package_name": "node-lmdb",
+        "weekly_downloads": 771,
+        "monthly_downloads": 2639
+    },
+    {
+        "package_name": "atlasboard",
+        "weekly_downloads": 60,
+        "monthly_downloads": 269
+    },
+    {
+        "package_name": "dset",
+        "weekly_downloads": 12822151,
+        "monthly_downloads": 46575664
+    },
+    {
+        "package_name": "immer",
+        "weekly_downloads": 53262058,
+        "monthly_downloads": 209457434
+    },
+    {
+        "package_name": "replicator",
+        "weekly_downloads": 159660,
+        "monthly_downloads": 671810
+    },
+    {
+        "package_name": "uri-js",
+        "weekly_downloads": 131220761,
+        "monthly_downloads": 520507140
+    },
+    {
+        "package_name": "@saltcorn/server",
+        "weekly_downloads": 794,
+        "monthly_downloads": 7610
+    },
+    {
+        "package_name": "mediaelement",
+        "weekly_downloads": 27686,
+        "monthly_downloads": 87974
+    },
+    {
+        "package_name": "undici",
+        "weekly_downloads": 131760206,
+        "monthly_downloads": 515114480
+    },
+    {
+        "package_name": "next",
+        "weekly_downloads": 39590260,
+        "monthly_downloads": 159948604
+    },
+    {
+        "package_name": "sequelize",
+        "weekly_downloads": 2815090,
+        "monthly_downloads": 11546735
+    },
+    {
+        "package_name": "ng-ui-library",
+        "weekly_downloads": 62,
+        "monthly_downloads": 423
+    },
+    {
+        "package_name": "i18next-fs-backend",
+        "weekly_downloads": 1253288,
+        "monthly_downloads": 4909706
+    },
+    {
+        "package_name": "vite-plus",
+        "weekly_downloads": 619861,
+        "monthly_downloads": 2388855
+    },
+    {
+        "package_name": "mcp-watch",
+        "weekly_downloads": 49,
+        "monthly_downloads": 220
+    },
+    {
+        "package_name": "devalue",
+        "weekly_downloads": 9466735,
+        "monthly_downloads": 36305780
+    },
+    {
+        "package_name": "node-forge",
+        "weekly_downloads": 35270705,
+        "monthly_downloads": 142869834
+    },
+    {
+        "package_name": "froever",
+        "weekly_downloads": 58,
+        "monthly_downloads": 247
+    },
+    {
+        "package_name": "dot",
+        "weekly_downloads": 722952,
+        "monthly_downloads": 2778548
+    },
+    {
+        "package_name": "@openlist-frontend/openlist-frontend",
+        "weekly_downloads": 152,
+        "monthly_downloads": 1225
+    },
+    {
+        "package_name": "@modelcontextprotocol/sdk",
+        "weekly_downloads": 40893994,
+        "monthly_downloads": 155831648
+    },
+    {
+        "package_name": "@sveltejs/kit",
+        "weekly_downloads": 2235077,
+        "monthly_downloads": 8391723
+    },
+    {
+        "package_name": "apollo-server",
+        "weekly_downloads": 197331,
+        "monthly_downloads": 812511
+    },
+    {
+        "package_name": "set-in",
+        "weekly_downloads": 66,
+        "monthly_downloads": 261
+    },
+    {
+        "package_name": "@remix-run/router",
+        "weekly_downloads": 22768829,
+        "monthly_downloads": 94772276
+    },
+    {
+        "package_name": "web3-eht",
+        "weekly_downloads": 0,
+        "monthly_downloads": 0
+    },
+    {
+        "package_name": "@hapi/content",
+        "weekly_downloads": 1570119,
+        "monthly_downloads": 6337575
+    },
+    {
+        "package_name": "@libp2p/kad-dht",
+        "weekly_downloads": 75257,
+        "monthly_downloads": 231076
+    },
+    {
+        "package_name": "@haxtheweb/haxcms-nodejs",
+        "weekly_downloads": 423,
+        "monthly_downloads": 1214
+    },
+    {
+        "package_name": "@lobehub/chat",
+        "weekly_downloads": 15727,
+        "monthly_downloads": 60629
+    },
+    {
+        "package_name": "baes-x",
+        "weekly_downloads": 4,
+        "monthly_downloads": 27
+    },
+    {
+        "package_name": "matrix-react-sdk",
+        "weekly_downloads": 13879,
+        "monthly_downloads": 36413
+    },
+    {
+        "package_name": "mustache",
+        "weekly_downloads": 14984866,
+        "monthly_downloads": 59046606
+    },
+    {
+        "package_name": "@hulumi/drift",
+        "weekly_downloads": 701,
+        "monthly_downloads": 3060
+    },
+    {
+        "package_name": "jsonwebtoken",
+        "weekly_downloads": 48945828,
+        "monthly_downloads": 190868519
+    },
+    {
+        "package_name": "makerjs",
+        "weekly_downloads": 38859,
+        "monthly_downloads": 103816
+    },
+    {
+        "package_name": "d3-color",
+        "weekly_downloads": 67641827,
+        "monthly_downloads": 268220423
+    },
+    {
+        "package_name": "@keystone-6/core",
+        "weekly_downloads": 6927,
+        "monthly_downloads": 32638
+    },
+    {
+        "package_name": "rebber",
+        "weekly_downloads": 442,
+        "monthly_downloads": 2937
+    },
+    {
+        "package_name": "fuseki",
+        "weekly_downloads": 7,
+        "monthly_downloads": 40
+    },
+    {
+        "package_name": "@digitalocean/do-markdownit",
+        "weekly_downloads": 4546,
+        "monthly_downloads": 11671
+    },
+    {
+        "package_name": "docsify",
+        "weekly_downloads": 63652,
+        "monthly_downloads": 272102
+    },
+    {
+        "package_name": "socket.io",
+        "weekly_downloads": 14998571,
+        "monthly_downloads": 59941710
+    },
+    {
+        "package_name": "@tinacms/mdx",
+        "weekly_downloads": 41110,
+        "monthly_downloads": 165528
+    },
+    {
+        "package_name": "ep_imageconvert",
+        "weekly_downloads": 9,
+        "monthly_downloads": 41
+    },
+    {
+        "package_name": "@haxtheweb/video-player",
+        "weekly_downloads": 77,
+        "monthly_downloads": 245
+    },
+    {
+        "package_name": "engine.io",
+        "weekly_downloads": 12444539,
+        "monthly_downloads": 54875714
+    },
+    {
+        "package_name": "web3",
+        "weekly_downloads": 638046,
+        "monthly_downloads": 2704141
+    },
+    {
+        "package_name": "snyk-broker",
+        "weekly_downloads": 85,
+        "monthly_downloads": 3550
+    },
+    {
+        "package_name": "asnc",
+        "weekly_downloads": 21,
+        "monthly_downloads": 42
+    },
+    {
+        "package_name": "@vitest/browser",
+        "weekly_downloads": 6709348,
+        "monthly_downloads": 25368088
+    },
+    {
+        "package_name": "bin-links",
+        "weekly_downloads": 6284263,
+        "monthly_downloads": 24318227
+    },
+    {
+        "package_name": "uplot",
+        "weekly_downloads": 368191,
+        "monthly_downloads": 1516526
+    },
+    {
+        "package_name": "min-dash",
+        "weekly_downloads": 561196,
+        "monthly_downloads": 2113451
+    },
+    {
+        "package_name": "@soketi/soketi",
+        "weekly_downloads": 1939,
+        "monthly_downloads": 8959
+    },
+    {
+        "package_name": "astro",
+        "weekly_downloads": 3549234,
+        "monthly_downloads": 13585147
+    },
+    {
+        "package_name": "ag-grid-community",
+        "weekly_downloads": 2818451,
+        "monthly_downloads": 10872981
+    },
+    {
+        "package_name": "jquery",
+        "weekly_downloads": 15115334,
+        "monthly_downloads": 73298157
+    },
+    {
+        "package_name": "rrgod",
+        "weekly_downloads": 9,
+        "monthly_downloads": 20
+    },
+    {
+        "package_name": "posix",
+        "weekly_downloads": 1866,
+        "monthly_downloads": 10699
+    },
+    {
+        "package_name": "fiora",
+        "weekly_downloads": 39,
+        "monthly_downloads": 151
+    },
+    {
+        "package_name": "nginxbeautifier",
+        "weekly_downloads": 85,
+        "monthly_downloads": 541
+    },
+    {
+        "package_name": "jellyfin-web",
+        "weekly_downloads": 19,
+        "monthly_downloads": 97
+    },
+    {
+        "package_name": "gemini-mcp-tool",
+        "weekly_downloads": 3154,
+        "monthly_downloads": 16207
+    },
+    {
+        "package_name": "@hapi/hoek",
+        "weekly_downloads": 28656348,
+        "monthly_downloads": 114453162
+    },
+    {
+        "package_name": "@steipete/summarize",
+        "weekly_downloads": 2511,
+        "monthly_downloads": 16557
+    },
+    {
+        "package_name": "is-http2",
+        "weekly_downloads": 38,
+        "monthly_downloads": 294
+    },
+    {
+        "package_name": "react-server-dom-turbopack",
+        "weekly_downloads": 69833,
+        "monthly_downloads": 268280
+    },
+    {
+        "package_name": "@builder.io/qwik",
+        "weekly_downloads": 36333,
+        "monthly_downloads": 132363
+    },
+    {
+        "package_name": "@knight-lab/timelinejs",
+        "weekly_downloads": 2960,
+        "monthly_downloads": 11176
+    },
+    {
+        "package_name": "remotion",
+        "weekly_downloads": 1159390,
+        "monthly_downloads": 4565617
+    },
+    {
+        "package_name": "@backstage/backend-common",
+        "weekly_downloads": 121028,
+        "monthly_downloads": 514932
+    },
+    {
+        "package_name": "react-server-dom-parcel",
+        "weekly_downloads": 7369,
+        "monthly_downloads": 35268
+    },
+    {
+        "package_name": "@evershop/evershop",
+        "weekly_downloads": 1652,
+        "monthly_downloads": 4623
+    },
+    {
+        "package_name": "serverwg",
+        "weekly_downloads": 3,
+        "monthly_downloads": 48
+    },
+    {
+        "package_name": "@strapi/admin",
+        "weekly_downloads": 214152,
+        "monthly_downloads": 882214
+    },
+    {
+        "package_name": "yapi-vendor",
+        "weekly_downloads": 338,
+        "monthly_downloads": 1616
+    },
+    {
+        "package_name": "takeapeek",
+        "weekly_downloads": 26,
+        "monthly_downloads": 104
+    },
+    {
+        "package_name": "360class.jansenhm",
+        "weekly_downloads": 6,
+        "monthly_downloads": 32
+    },
+    {
+        "package_name": "lodash.trimend",
+        "weekly_downloads": 131676,
+        "monthly_downloads": 502219
+    },
+    {
+        "package_name": "editor.md",
+        "weekly_downloads": 733,
+        "monthly_downloads": 2667
+    },
+    {
+        "package_name": "plotly.js",
+        "weekly_downloads": 809743,
+        "monthly_downloads": 3025194
+    },
+    {
+        "package_name": "matrix-appservice-bridge",
+        "weekly_downloads": 983,
+        "monthly_downloads": 6787
+    },
+    {
+        "package_name": "lodash-es",
+        "weekly_downloads": 38209335,
+        "monthly_downloads": 150070767
+    },
+    {
+        "package_name": "@directus/api",
+        "weekly_downloads": 24899,
+        "monthly_downloads": 84560
+    },
+    {
+        "package_name": "nodecaffe",
+        "weekly_downloads": 190,
+        "monthly_downloads": 745
+    },
+    {
+        "package_name": "genieacs",
+        "weekly_downloads": 1018,
+        "monthly_downloads": 3972
+    },
+    {
+        "package_name": "marked",
+        "weekly_downloads": 50984844,
+        "monthly_downloads": 198479247
+    },
+    {
+        "package_name": "nedb",
+        "weekly_downloads": 54738,
+        "monthly_downloads": 181014
+    },
+    {
+        "package_name": "hapi",
+        "weekly_downloads": 92435,
+        "monthly_downloads": 324133
+    },
+    {
+        "package_name": "@commercial/subtext",
+        "weekly_downloads": 16,
+        "monthly_downloads": 77
+    },
+    {
+        "package_name": "@penpot/mcp",
+        "weekly_downloads": 22981,
+        "monthly_downloads": 220480
+    },
+    {
+        "package_name": "wenluhong1",
+        "weekly_downloads": 5,
+        "monthly_downloads": 50
+    },
+    {
+        "package_name": "atlasboard-atlassian-package",
+        "weekly_downloads": 8,
+        "monthly_downloads": 48
+    },
+    {
+        "package_name": "network-ai",
+        "weekly_downloads": 909,
+        "monthly_downloads": 4903
+    },
+    {
+        "package_name": "iniparserjs",
+        "weekly_downloads": 6,
+        "monthly_downloads": 97
+    },
+    {
+        "package_name": "muhammara",
+        "weekly_downloads": 40188,
+        "monthly_downloads": 147936
+    },
+    {
+        "package_name": "ip",
+        "weekly_downloads": 8747308,
+        "monthly_downloads": 36412514
+    },
+    {
+        "package_name": "ethereumjs-vm",
+        "weekly_downloads": 100916,
+        "monthly_downloads": 449741
+    },
+    {
+        "package_name": "apollo-server-core",
+        "weekly_downloads": 1009654,
+        "monthly_downloads": 3971924
+    },
+    {
+        "package_name": "flat",
+        "weekly_downloads": 29910105,
+        "monthly_downloads": 115182298
+    },
+    {
+        "package_name": "nothing-js",
+        "weekly_downloads": 3,
+        "monthly_downloads": 10
+    },
+    {
+        "package_name": "samlify",
+        "weekly_downloads": 737741,
+        "monthly_downloads": 2761978
+    },
+    {
+        "package_name": "h3",
+        "weekly_downloads": 38560363,
+        "monthly_downloads": 130834059
+    },
+    {
+        "package_name": "safe-eval",
+        "weekly_downloads": 26499,
+        "monthly_downloads": 109018
+    },
+    {
+        "package_name": "buffes-xor",
+        "weekly_downloads": 5,
+        "monthly_downloads": 26
+    },
+    {
+        "package_name": "ruffer-xor",
+        "weekly_downloads": 3,
+        "monthly_downloads": 13
+    },
+    {
+        "package_name": "@oneuptime/model",
+        "weekly_downloads": 5,
+        "monthly_downloads": 701
+    },
+    {
+        "package_name": "@hapi/hapi",
+        "weekly_downloads": 1613615,
+        "monthly_downloads": 6263167
+    },
+    {
+        "package_name": "http-live-simulator",
+        "weekly_downloads": 38,
+        "monthly_downloads": 200
+    },
+    {
+        "package_name": "dbgate-web",
+        "weekly_downloads": 714,
+        "monthly_downloads": 5714
+    },
+    {
+        "package_name": "axios",
+        "weekly_downloads": 118711539,
+        "monthly_downloads": 472799299
+    },
+    {
+        "package_name": "arrayfire-js",
+        "weekly_downloads": 111,
+        "monthly_downloads": 398
+    },
+    {
+        "package_name": "rsshub",
+        "weekly_downloads": 13807,
+        "monthly_downloads": 58910
+    },
+    {
+        "package_name": "ladder-text-js",
+        "weekly_downloads": 2,
+        "monthly_downloads": 17
+    },
+    {
+        "package_name": "@actual-app/sync-server",
+        "weekly_downloads": 2185,
+        "monthly_downloads": 10877
+    },
+    {
+        "package_name": "handlebars",
+        "weekly_downloads": 38836207,
+        "monthly_downloads": 162273757
+    },
+    {
+        "package_name": "@npmcli/arborist",
+        "weekly_downloads": 4900623,
+        "monthly_downloads": 19985307
+    },
+    {
+        "package_name": "concat-with-sourcemaps",
+        "weekly_downloads": 3130938,
+        "monthly_downloads": 12495886
+    },
+    {
+        "package_name": "@nyariv/sandboxjs",
+        "weekly_downloads": 149996,
+        "monthly_downloads": 492986
+    },
+    {
+        "package_name": "@75lb/deep-merge",
+        "weekly_downloads": 656186,
+        "monthly_downloads": 2486479
+    },
+    {
+        "package_name": "sqliter",
+        "weekly_downloads": 156,
+        "monthly_downloads": 718
+    },
+    {
+        "package_name": "@anthropic-ai/claude-code",
+        "weekly_downloads": 10750413,
+        "monthly_downloads": 42766154
+    },
+    {
+        "package_name": "hummus",
+        "weekly_downloads": 4009,
+        "monthly_downloads": 17724
+    },
+    {
+        "package_name": "react-dev-utils",
+        "weekly_downloads": 4716977,
+        "monthly_downloads": 18887671
+    },
+    {
+        "package_name": "haxe3",
+        "weekly_downloads": 6,
+        "monthly_downloads": 30
+    },
+    {
+        "package_name": "pnpm",
+        "weekly_downloads": 113954193,
+        "monthly_downloads": 447054760
+    },
+    {
+        "package_name": "electron",
+        "weekly_downloads": 4598317,
+        "monthly_downloads": 18650264
+    },
+    {
+        "package_name": "list-n-stream",
+        "weekly_downloads": 12,
+        "monthly_downloads": 64
+    },
+    {
+        "package_name": "operadriver",
+        "weekly_downloads": 171,
+        "monthly_downloads": 549
+    },
+    {
+        "package_name": "@strapi/plugin-users-permissions",
+        "weekly_downloads": 168224,
+        "monthly_downloads": 730223
+    },
+    {
+        "package_name": "color-string",
+        "weekly_downloads": 46224715,
+        "monthly_downloads": 184388889
+    },
+    {
+        "package_name": "codeceptjs",
+        "weekly_downloads": 498178,
+        "monthly_downloads": 1814539
+    },
+    {
+        "package_name": "jsonpointer",
+        "weekly_downloads": 15544958,
+        "monthly_downloads": 68982922
+    },
+    {
+        "package_name": "diskusage-ng",
+        "weekly_downloads": 1493,
+        "monthly_downloads": 5125
+    },
+    {
+        "package_name": "mcp-maigret",
+        "weekly_downloads": 37,
+        "monthly_downloads": 236
+    },
+    {
+        "package_name": "weather.swlyons",
+        "weekly_downloads": 5,
+        "monthly_downloads": 36
+    },
+    {
+        "package_name": "mathjs",
+        "weekly_downloads": 2928159,
+        "monthly_downloads": 11689668
+    },
+    {
+        "package_name": "lodash-template",
+        "weekly_downloads": 548,
+        "monthly_downloads": 2039
+    },
+    {
+        "package_name": "erxes",
+        "weekly_downloads": 29,
+        "monthly_downloads": 1059
+    },
+    {
+        "package_name": "simple-git",
+        "weekly_downloads": 11389843,
+        "monthly_downloads": 44751930
+    },
+    {
+        "package_name": "@nuxt/vite-builder",
+        "weekly_downloads": 1234637,
+        "monthly_downloads": 5790194
+    },
+    {
+        "package_name": "intsol-package",
+        "weekly_downloads": 2,
+        "monthly_downloads": 47
+    },
+    {
+        "package_name": "@oneuptime/common-server",
+        "weekly_downloads": 2,
+        "monthly_downloads": 696
+    },
+    {
+        "package_name": "web3-utils",
+        "weekly_downloads": 1448845,
+        "monthly_downloads": 6228052
+    },
+    {
+        "package_name": "@mcpjam/inspector",
+        "weekly_downloads": 4116,
+        "monthly_downloads": 17691
+    },
+    {
+        "package_name": "fluture-node",
+        "weekly_downloads": 21,
+        "monthly_downloads": 104
+    },
+    {
+        "package_name": "lodash.template",
+        "weekly_downloads": 4641278,
+        "monthly_downloads": 19028885
+    },
+    {
+        "package_name": "react-router",
+        "weekly_downloads": 47143957,
+        "monthly_downloads": 191557894
+    },
+    {
+        "package_name": "localhost-now",
+        "weekly_downloads": 13,
+        "monthly_downloads": 75
+    },
+    {
+        "package_name": "statichttpserver",
+        "weekly_downloads": 5,
+        "monthly_downloads": 98
+    },
+    {
+        "package_name": "path-to-regexp",
+        "weekly_downloads": 149884244,
+        "monthly_downloads": 654650480
+    },
+    {
+        "package_name": "nodemailer",
+        "weekly_downloads": 16658530,
+        "monthly_downloads": 68140168
+    },
+    {
+        "package_name": "exceljs",
+        "weekly_downloads": 9650970,
+        "monthly_downloads": 37531173
+    },
+    {
+        "package_name": "alto-saxophone",
+        "weekly_downloads": 150,
+        "monthly_downloads": 452
+    },
+    {
+        "package_name": "geddy",
+        "weekly_downloads": 343,
+        "monthly_downloads": 1784
+    },
+    {
+        "package_name": "react-native-reanimated",
+        "weekly_downloads": 5307847,
+        "monthly_downloads": 21927089
+    },
+    {
+        "package_name": "@backstage/cli-common",
+        "weekly_downloads": 855987,
+        "monthly_downloads": 3128410
+    },
+    {
+        "package_name": "caolilinode",
+        "weekly_downloads": 6,
+        "monthly_downloads": 62
+    },
+    {
+        "package_name": "react-bootstrap-table",
+        "weekly_downloads": 15329,
+        "monthly_downloads": 76099
+    },
+    {
+        "package_name": "sshpk",
+        "weekly_downloads": 21098153,
+        "monthly_downloads": 85064332
+    },
+    {
+        "package_name": "seneca",
+        "weekly_downloads": 7383,
+        "monthly_downloads": 29543
+    },
+    {
+        "package_name": "steal",
+        "weekly_downloads": 6209,
+        "monthly_downloads": 29982
+    },
+    {
+        "package_name": "parse-server",
+        "weekly_downloads": 32815,
+        "monthly_downloads": 134269
+    },
+    {
+        "package_name": "vxe-table",
+        "weekly_downloads": 69776,
+        "monthly_downloads": 233795
+    },
+    {
+        "package_name": "@strapi/plugin-email",
+        "weekly_downloads": 60397,
+        "monthly_downloads": 249117
+    },
+    {
+        "package_name": "@jmondi/url-to-png",
+        "weekly_downloads": 9,
+        "monthly_downloads": 58
+    },
+    {
+        "package_name": "@strapi/core",
+        "weekly_downloads": 133308,
+        "monthly_downloads": 598666
+    },
+    {
+        "package_name": "mcp-framework",
+        "weekly_downloads": 61604,
+        "monthly_downloads": 233564
+    },
+    {
+        "package_name": "ag-grid-enterprise",
+        "weekly_downloads": 1285926,
+        "monthly_downloads": 4650095
+    },
+    {
+        "package_name": "payload",
+        "weekly_downloads": 462023,
+        "monthly_downloads": 1811619
+    },
+    {
+        "package_name": "md-fileserver",
+        "weekly_downloads": 96,
+        "monthly_downloads": 572
+    },
+    {
+        "package_name": "commander-js",
+        "weekly_downloads": 22,
+        "monthly_downloads": 63
+    },
+    {
+        "package_name": "node-red-dashboard",
+        "weekly_downloads": 38763,
+        "monthly_downloads": 181811
+    },
+    {
+        "package_name": "another-date-picker",
+        "weekly_downloads": 32,
+        "monthly_downloads": 143
+    },
+    {
+        "package_name": "engramx",
+        "weekly_downloads": 222,
+        "monthly_downloads": 1533
+    },
+    {
+        "package_name": "oauth2-server",
+        "weekly_downloads": 212805,
+        "monthly_downloads": 710300
+    },
+    {
+        "package_name": "n8n",
+        "weekly_downloads": 85998,
+        "monthly_downloads": 309748
+    },
+    {
+        "package_name": "linkify-it",
+        "weekly_downloads": 24576811,
+        "monthly_downloads": 101929482
+    },
+    {
+        "package_name": "ced",
+        "weekly_downloads": 6502,
+        "monthly_downloads": 19331
+    },
+    {
+        "package_name": "@hulumi/baseline",
+        "weekly_downloads": 744,
+        "monthly_downloads": 3383
+    },
+    {
+        "package_name": "budibase",
+        "weekly_downloads": 54,
+        "monthly_downloads": 141
+    },
+    {
+        "package_name": "@tinacms/graphql",
+        "weekly_downloads": 35053,
+        "monthly_downloads": 168223
+    },
+    {
+        "package_name": "@paperclipai/server",
+        "weekly_downloads": 20968,
+        "monthly_downloads": 146565
+    },
+    {
+        "package_name": "pkg",
+        "weekly_downloads": 233835,
+        "monthly_downloads": 916261
+    },
+    {
+        "package_name": "fastify",
+        "weekly_downloads": 8846595,
+        "monthly_downloads": 33556919
+    },
+    {
+        "package_name": "tinacms",
+        "weekly_downloads": 40400,
+        "monthly_downloads": 175722
+    },
+    {
+        "package_name": "react-native-webview",
+        "weekly_downloads": 3091782,
+        "monthly_downloads": 12566420
+    },
+    {
+        "package_name": "redis",
+        "weekly_downloads": 9168981,
+        "monthly_downloads": 41862909
+    },
+    {
+        "package_name": "pullit",
+        "weekly_downloads": 22,
+        "monthly_downloads": 100
+    },
+    {
+        "package_name": "react-server-dom-webpack",
+        "weekly_downloads": 688191,
+        "monthly_downloads": 2728921
+    },
+    {
+        "package_name": "@hapi/boom",
+        "weekly_downloads": 5937106,
+        "monthly_downloads": 21477684
+    },
+    {
+        "package_name": "swig-templates",
+        "weekly_downloads": 9418,
+        "monthly_downloads": 43325
+    },
+    {
+        "package_name": "urijs",
+        "weekly_downloads": 4802024,
+        "monthly_downloads": 19859735
+    },
+    {
+        "package_name": "toggle-array",
+        "weekly_downloads": 61343,
+        "monthly_downloads": 214538
+    },
+    {
+        "package_name": "@evomap/evolver",
+        "weekly_downloads": 5505,
+        "monthly_downloads": 12500
+    },
+    {
+        "package_name": "strapi-admin",
+        "weekly_downloads": 27633,
+        "monthly_downloads": 116647
+    },
+    {
+        "package_name": "xrpl",
+        "weekly_downloads": 394883,
+        "monthly_downloads": 1792802
+    },
+    {
+        "package_name": "directus",
+        "weekly_downloads": 25018,
+        "monthly_downloads": 86029
+    },
+    {
+        "package_name": "requestt",
+        "weekly_downloads": 4,
+        "monthly_downloads": 18
+    },
+    {
+        "package_name": "@opensearch-project/opensearch",
+        "weekly_downloads": 1665668,
+        "monthly_downloads": 6653503
+    },
+    {
+        "package_name": "@payloadcms/graphql",
+        "weekly_downloads": 417615,
+        "monthly_downloads": 1701953
+    },
+    {
+        "package_name": "deephas",
+        "weekly_downloads": 43,
+        "monthly_downloads": 202
+    },
+    {
+        "package_name": "openlearnx",
+        "weekly_downloads": 14,
+        "monthly_downloads": 45
+    },
+    {
+        "package_name": "@tinacms/cli",
+        "weekly_downloads": 38979,
+        "monthly_downloads": 147113
+    },
+    {
+        "package_name": "n8n-nodes-base",
+        "weekly_downloads": 83827,
+        "monthly_downloads": 316896
+    },
+    {
+        "package_name": "jsondiffpatch",
+        "weekly_downloads": 2687783,
+        "monthly_downloads": 10595635
+    },
+    {
+        "package_name": "safe-flat",
+        "weekly_downloads": 369216,
+        "monthly_downloads": 1424021
+    },
+    {
+        "package_name": "open",
+        "weekly_downloads": 112917577,
+        "monthly_downloads": 443314352
+    },
+    {
+        "package_name": "@sentry/nextjs",
+        "weekly_downloads": 7158037,
+        "monthly_downloads": 28977398
+    },
+    {
+        "package_name": "@payloadcms/next",
+        "weekly_downloads": 427180,
+        "monthly_downloads": 1657615
+    },
+    {
+        "package_name": "lodash.merge",
+        "weekly_downloads": 110860094,
+        "monthly_downloads": 439327756
+    },
+    {
+        "package_name": "counterpart",
+        "weekly_downloads": 23228,
+        "monthly_downloads": 81234
+    },
+    {
+        "package_name": "ssri",
+        "weekly_downloads": 58213562,
+        "monthly_downloads": 254766277
+    },
+    {
+        "package_name": "closure-util",
+        "weekly_downloads": 3554,
+        "monthly_downloads": 14637
+    },
+    {
+        "package_name": "flatted",
+        "weekly_downloads": 129768923,
+        "monthly_downloads": 516770206
+    },
+    {
+        "package_name": "node-uuid",
+        "weekly_downloads": 1003025,
+        "monthly_downloads": 4162332
+    },
+    {
+        "package_name": "lodash.trim",
+        "weekly_downloads": 153232,
+        "monthly_downloads": 611686
+    },
+    {
+        "package_name": "minimatch",
+        "weekly_downloads": 637696988,
+        "monthly_downloads": 2559828825
+    },
+    {
+        "package_name": "port-killer",
+        "weekly_downloads": 7,
+        "monthly_downloads": 73
+    },
+    {
+        "package_name": "querymen",
+        "weekly_downloads": 6362,
+        "monthly_downloads": 21340
+    },
+    {
+        "package_name": "bcion",
+        "weekly_downloads": 4,
+        "monthly_downloads": 24
+    },
+    {
+        "package_name": "motiv.scss",
+        "weekly_downloads": 6,
+        "monthly_downloads": 701
+    },
+    {
+        "package_name": "fuxa-server",
+        "weekly_downloads": 15,
+        "monthly_downloads": 120
+    },
+    {
+        "package_name": "hono",
+        "weekly_downloads": 47576301,
+        "monthly_downloads": 189761096
+    },
+    {
+        "package_name": "flowise-components",
+        "weekly_downloads": 2156,
+        "monthly_downloads": 9444
     }
 ]

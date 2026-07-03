@@ -1,4 +1,4 @@
 model,TP,TN,FP,FN
-Logistic Regression,68,594,1,0
-Support Vector Machine,68,590,5,0
-Random Forest,68,594,1,0
+Logistic Regression,64,589,6,4
+Support Vector Machine,65,591,4,3
+Random Forest,63,593,2,5
