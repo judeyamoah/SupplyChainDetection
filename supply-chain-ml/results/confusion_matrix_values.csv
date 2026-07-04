@@ -2,3 +2,5 @@ model,TP,TN,FP,FN
 Logistic Regression,64,589,6,4
 Support Vector Machine,65,591,4,3
 Random Forest,63,593,2,5
+Neural Network,62,593,2,6
+XGBoost,63,593,2,5

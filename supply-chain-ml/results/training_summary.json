@@ -8,6 +8,8 @@
     "models_trained": [
         "Logistic Regression",
         "Support Vector Machine",
-        "Random Forest"
+        "Random Forest",
+        "Neural Network",
+        "XGBoost"
     ]
 }

@@ -46,6 +46,7 @@ from sklearn.metrics import (
 from sklearn.model_selection import StratifiedKFold, cross_val_score, train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.svm import SVC
+from sklearn.neural_network import MLPClassifier
 
 try:
     from xgboost import XGBClassifier
@@ -152,6 +153,19 @@ def get_models():
                 class_weight="balanced",
                 random_state=RANDOM_STATE,
                 n_jobs=-1
+            ))
+        ]),
+        "Neural Network": ImbPipeline([
+            ("scaler", StandardScaler()),
+            ("smote", SMOTE(random_state=RANDOM_STATE)),
+            ("classifier", MLPClassifier(
+                hidden_layer_sizes=(64, 32),
+                activation="relu",
+                solver="adam",
+                alpha=0.0001,
+                learning_rate_init=0.001,
+                max_iter=500,
+                random_state=RANDOM_STATE
             ))
         ])
     }
