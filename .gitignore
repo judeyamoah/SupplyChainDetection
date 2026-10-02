@@ -3,3 +3,21 @@ supply-chain-ml/data/raw/npm_vulnerable_metadata_raw.tmp
 supply-chain-ml/data/raw/npm_vulnerable_metadata_raw_.tmp
 supply-chain-ml/data/raw/npm_vulnerable_metadata_raw__.tmp
 supply-chain-ml/data/raw/osv_npm_all.zip
+
+supply-chain-ml-v2/data/raw/npm_vulnerable_metadata_raw.json
+supply-chain-ml-v2/data/raw/npm_vulnerable_metadata_raw.tmp
+supply-chain-ml-v2/data/raw/npm_vulnerable_metadata_raw_.tmp
+supply-chain-ml-v2/data/raw/npm_vulnerable_metadata_raw__.tmp
+supply-chain-ml-v2/data/raw/osv_npm_all.zip
+
+supply-chain-ml-v2/logs
+supply-chain-ml-v2/models
+supply-chain-ml-v2/v2_pipeline/__pycache__
+supply-chain-ml-v2/v2_pipeline/results_v2 2.zip
+supply-chain-ml-v2/v2_pipeline/osv_npm_all.zip
+supply-chain-ml-v2/v2_pipeline/tmp_hi
+.venv
+supply-chain-ml-v2/results
+supply-chain-ml-v2/figures
+supply-chain-ml-v2/tmp_hi
+supply-chain-ml-v2/v2_pipeline/data_v2/metadata.jsonl

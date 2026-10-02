@@ -1,0 +1,6 @@
+attempt :
+    ❌ GitHub features
+    ❌ Full source-code analysis
+    ❌ Dependency graph centrality metrics
+
+    after everything else is  working fine

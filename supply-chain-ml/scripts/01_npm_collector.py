@@ -25,14 +25,13 @@ from urllib.parse import urlencode
 
 import requests
 
-
 # -----------------------------
 # Configuration
 # -----------------------------
 
 BASE_URL = "https://replicate.npmjs.com/_all_docs"
 LIMIT = 500
-#TARGET_COUNT = 3000
+# TARGET_COUNT = 3000
 TARGET_COUNT = 1000000
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -42,13 +41,14 @@ PROGRESS_FILE = BASE_DIR / "logs" / "npm_progress.json"
 
 HEADERS = {
     "User-Agent": "MSc-Thesis-Supply-Chain-Research/1.0",
-    "Accept": "application/json"
+    "Accept": "application/json",
 }
 
 
 # -----------------------------
 # Helper Functions
 # -----------------------------
+
 
 def ensure_directories():
     """Create required project directories if they do not already exist."""
@@ -64,10 +64,7 @@ def save_progress(last_key, collected):
         last_key (str): Last package key collected from npm endpoint.
         collected (int): Number of packages collected so far.
     """
-    progress = {
-        "last_key": last_key,
-        "collected": collected
-    }
+    progress = {"last_key": last_key, "collected": collected}
 
     with open(PROGRESS_FILE, "w", encoding="utf-8") as file:
         json.dump(progress, file, indent=4)
@@ -84,10 +81,7 @@ def load_progress():
         with open(PROGRESS_FILE, "r", encoding="utf-8") as file:
             return json.load(file)
 
-    return {
-        "last_key": None,
-        "collected": 0
-    }
+    return {"last_key": None, "collected": 0}
 
 
 def load_existing_packages():
@@ -125,9 +119,7 @@ def fetch_batch(startkey=None):
     Returns:
         dict | None: JSON response from npm endpoint.
     """
-    params = {
-        "limit": LIMIT
-    }
+    params = {"limit": LIMIT}
 
     if startkey:
         params["startkey"] = json.dumps(startkey)
@@ -137,11 +129,7 @@ def fetch_batch(startkey=None):
     print(f"Requesting: {url}")
 
     try:
-        response = requests.get(
-            url,
-            headers=HEADERS,
-            timeout=30
-        )
+        response = requests.get(url, headers=HEADERS, timeout=30)
 
         if response.status_code != 200:
             print(f"HTTP Error {response.status_code}: {response.text[:300]}")
@@ -159,6 +147,7 @@ def fetch_batch(startkey=None):
 # -----------------------------
 # Main Collection Logic
 # -----------------------------
+
 
 def main():
     ensure_directories()
