@@ -1,0 +1,10 @@
+removed_column,reason
+package_name,"identifier, not a feature"
+label,target
+vulnerability_count,derived directly from the OSV record that defines the label
+has_cve_alias,derived from OSV aliases; exists only for labelled-vulnerable packages
+has_ghsa_alias,derived from OSV aliases; exists only for labelled-vulnerable packages
+severity_count,derived from OSV severity field; exists only for labelled-vulnerable packages
+seed_label,copy of the label
+osv_label,copy of the label
+"role, dl_bin, dl_tier, age_bin, created, first_published","sampling/matching bookkeeping; used only to split data and audit, never as inputs"

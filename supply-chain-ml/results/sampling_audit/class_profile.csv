@@ -1,0 +1,9 @@
+,benign,vulnerable
+name starts with digit or '-',1.0,0.085
+scoped package (@scope/name),0.0,0.199
+contains a digit,0.968,0.12
+has repository,0.153,0.939
+median monthly downloads,39.0,87001.5
+median version count,1.0,42.0
+median age (days),1151.0,3204.5
+no CVE/GHSA alias,,0.202

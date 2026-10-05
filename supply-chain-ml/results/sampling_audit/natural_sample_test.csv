@@ -1,0 +1,6 @@
+model,positives,flagged,benign_test,auc
+LR,28,1,594,0.91
+SVM,28,0,594,0.922
+RF,28,0,594,0.828
+MLP,28,2,594,0.924
+XGBoost,28,0,594,0.867

@@ -1,0 +1,27 @@
+setting,model,n_feat,prec,rec,f1,auc,mcc
+all features,LR,80,0.914,0.941,0.928,0.998,0.919
+all features,RF,80,0.984,0.926,0.955,0.999,0.95
+drop naming,LR,70,0.79,0.941,0.859,0.993,0.845
+drop naming,RF,70,0.87,0.882,0.876,0.994,0.862
+drop downloads,LR,73,0.941,0.941,0.941,0.999,0.934
+drop downloads,RF,73,0.951,0.853,0.899,0.998,0.89
+drop repository/transparency,LR,66,0.926,0.926,0.926,0.997,0.918
+drop repository/transparency,RF,66,0.985,0.941,0.962,0.999,0.959
+drop version/lifecycle,LR,66,0.955,0.926,0.94,0.998,0.934
+drop version/lifecycle,RF,66,0.984,0.897,0.938,0.997,0.933
+drop maintainers,LR,73,0.941,0.941,0.941,0.999,0.934
+drop maintainers,RF,73,0.984,0.926,0.955,0.998,0.95
+drop naming+downloads,LR,63,0.79,0.941,0.859,0.991,0.845
+drop naming+downloads,RF,63,0.909,0.882,0.896,0.993,0.884
+drop naming+downloads+repo,LR,49,0.643,0.926,0.759,0.986,0.742
+drop naming+downloads+repo,RF,49,0.824,0.897,0.859,0.994,0.843
+ONLY naming,LR,10,0.855,0.868,0.861,0.957,0.845
+ONLY naming,RF,10,0.853,0.853,0.853,0.934,0.836
+ONLY downloads,LR,7,0.622,0.824,0.709,0.947,0.679
+ONLY downloads,RF,7,0.765,0.765,0.765,0.951,0.738
+ONLY repository/transparency,LR,14,0.453,0.912,0.605,0.951,0.589
+ONLY repository/transparency,RF,14,0.679,0.779,0.726,0.96,0.694
+ONLY version/lifecycle,LR,14,0.525,0.912,0.667,0.97,0.649
+ONLY version/lifecycle,RF,14,0.838,0.912,0.873,0.994,0.859
+ONLY maintainers,LR,7,0.491,0.824,0.615,0.915,0.584
+ONLY maintainers,RF,7,0.64,0.706,0.671,0.91,0.633
